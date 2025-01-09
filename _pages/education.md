@@ -25,4 +25,4 @@ Amirkabir University of Technology (AUT), Tehran, Iran
 **2018 – 2023**  
 Department of Materials and Metallurgical Engineering,  
 Amirkabir University of Technology (AUT), Tehran, Iran  
-- **GPA :** 4 / 4 (18.95 / 20) via 144 credits  
+- **GPA :** 4 / 4 (18.95 / 20.00) via 144 credits  
