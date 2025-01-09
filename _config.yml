@@ -14,7 +14,7 @@ name                     : &name "Mohammadreza Hassanzadeh"
 description              : &description "personal description"
 url                      : "https://M-Hassanzadeh.github.io"
 baseurl                  : ""
-repository               : "M-Hassanzadeh//M-Hassanzadeh.github.io"
+repository               : "M-Hassanzadeh/M-Hassanzadeh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
